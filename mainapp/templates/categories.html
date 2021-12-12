@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load static i18n %}
+{% load static %}
+
+{% block content %}
+<div id="topPanel">
+    <a href="javascript:history.back();">
+        <svg width="25" height="22" viewBox="0 0 25 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M8.44172 1L1.44172 10C1.24856 10.1932 1.01063 10.5654 1.00035 11M8.44172 21C6.44172 18.3333 2.24172 12.8 1.44172 12C1.1053 11.6636 0.992882 11.3154 1.00035 11M1.00035 11H24.4417" stroke="#505050" stroke-width="2"/>
+        </svg>
+    </a>
+    <h2>{% trans 'Меню'%}</h2>
+</div>
+
+<section id="menuRect">
+    {% for el in categories %}
+    <div onclick="openLink( '{{ el.get_absolute_url }}' )">
+        <img src="{{el.image.url}}" alt="">
+        <div class="rect"></div>
+        <p>{{ el.name }}</p>
+    </div>
+    {% endfor %}
+</section>
+{% endblock %}
+
+{% block script %}
+<script src="{% static 'js/script.js' %}"></script>
+{% endblock %}

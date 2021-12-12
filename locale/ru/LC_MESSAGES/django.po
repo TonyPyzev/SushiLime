@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-11 17:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\mainapp\templates\aboutus.html:12 .\mainapp\templates\base.html:43
+msgid "Про нас"
+msgstr "О нас"
+
+#: .\mainapp\templates\aboutus.html:17
+msgid "Ми раді вітати Вас в"
+msgstr "Ми раді вітати Вас в"
+
+#: .\mainapp\templates\aboutus.html:17
+msgid "- замовлення «на виніс» та доставку смачних суші."
+msgstr "- замовлення «на виніс» та доставку смачних суші."
+
+#: .\mainapp\templates\aboutus.html:20
+msgid "Народна любов до суші ніколи не сплине – це страва – канікули з ароматом екзотики, солоного вітру та подиху моря."
+msgstr "Народна любов до суші ніколи не сплине – це страва – канікули з ароматом екзотики, солоного вітру та подиху моря."
+
+#: .\mainapp\templates\aboutus.html:25
+msgid "Ми в"
+msgstr "Ми в"
+
+#: .\mainapp\templates\aboutus.html:25
+msgid "для приготування японських смаколивків акцентуємо увагу на преміальних продуктах: японський сорт  рису акіто камачі, котрий самі японці вважають еталонним, особливо хрусткі норі, авторські соуси – це той випадок коли у короля (тобто у свіжої риби) гідна звита. Продукти в <span style=\"color: #F37D03;\">Sushi</span> <span>Lime</span> завжди свіжі, що підтверджено сертифікатами якості від надійних постачальників. Кожна страва після приготування проходить контроль якості та зважування."
+msgstr "для приготування японських смаколивків акцентуємо увагу на преміальних продуктах: японський сорт  рису акіто камачі, котрий самі японці вважають еталонним, особливо хрусткі норі, авторські соуси – це той випадок коли у короля (тобто у свіжої риби) гідна звита. Продукти в <span style=\"color: #F37D03;\">Sushi</span> <span>Lime</span> завжди свіжі, що підтверджено сертифікатами якості від надійних постачальників. Кожна страва після приготування проходить контроль якості та зважування."
+
+#: .\mainapp\templates\aboutus.html:34
+msgid "В"
+msgstr "В"
+
+#: .\mainapp\templates\aboutus.html:34
+msgid "не заощаджують на продуктах – і якісно, і кількісно, тому рису всередині менше, аніж риби. Точну вагу і склад роллів можна завжди побачити в описі до страви. Суші на фото виглядають так само і «в житі» без перебільшення, ми знаємо як це важливо для наших Клієнтів!"
+msgstr "не заощаджують на продуктах – і якісно, і кількісно, тому рису всередині менше, аніж риби. Точну вагу і склад роллів можна завжди побачити в описі до страви. Суші на фото виглядають так само і «в житі» без перебільшення, ми знаємо як це важливо для наших Клієнтів!"
+
+#: .\mainapp\templates\aboutus.html:37
+msgid "Безкінечне меню передбачає свободу дій – окрім переосмисленої класики, шести варіантів «Каліфорнії»,  «Філадельфії», « Боніто»  та «Драконів», варто  обов’язково скуштувати наші не по-київські щедрі порції «Фірмових ролів» та теплих і ароматних «Запечених ролів». Запрошуємо відвідати наш <span>Sushi</span> <span>Lime</span>, і Ви отримаєте своє замовлення протягом 15 хвилин, не очікуючи кур’єра. Можливо також приготувати замовлення на обумовлений час."
+msgstr "Безкінечне меню передбачає свободу дій – окрім переосмисленої класики, шести варіантів «Каліфорнії»,  «Філадельфії», « Боніто»  та «Драконів», варто  обов’язково скуштувати наші не по-київські щедрі порції «Фірмових ролів» та теплих і ароматних «Запечених ролів». Запрошуємо відвідати наш <span>Sushi</span> <span>Lime</span>, і Ви отримаєте своє замовлення протягом 15 хвилин, не очікуючи кур’єра. Можливо також приготувати замовлення на обумовлений час."
+
+#: .\mainapp\templates\aboutus.html:42 .\mainapp\templates\aboutus.html:48
+msgid "Замовити суші або роллів додому в Києві з доставкою – це відмінний спосіб позбутися шаблонного приготування вечері, і зануритися в атмосферу самобутньої азіатської країни через її кухню."
+msgstr "Замовити суші або роллів додому в Києві з доставкою – це відмінний спосіб позбутися шаблонного приготування вечері, і зануритися в атмосферу самобутньої азіатської країни через її кухню."
+
+#: .\mainapp\templates\aboutus.html:49
+msgid "Ви бажаєте влаштувати свято для себе, своїх рідних або коллег? Замовляйте в <span>Sushi</span> <span>Lime!</span> Наші повари-сушисти  порадують Вас своєю кулінарною майстерністю. Приготуємо смачний обід, влаштуємо вечерю або святковий захід із свіжих суші, роллів або сетів."
+msgstr "Ви бажаєте влаштувати свято для себе, своїх рідних або коллег? Замовляйте в <span>Sushi</span> <span>Lime!</span> Наші повари-сушисти  порадують Вас своєю кулінарною майстерністю. Приготуємо смачний обід, влаштуємо вечерю або святковий захід із свіжих суші, роллів або сетів."
+
+#: .\mainapp\templates\base.html:39
+msgid "Головна"
+msgstr "Главная"
+
+#: .\mainapp\templates\base.html:40 .\mainapp\templates\categories.html:12
+msgid "Меню"
+msgstr "Меню"
+
+#: .\mainapp\templates\base.html:41 .\mainapp\templates\order.html:21
+msgid "Доставка"
+msgstr "Доставка"
+
+#: .\mainapp\templates\base.html:42 .\mainapp\templates\base.html:79
+#: .\mainapp\templates\contacts.html:13
+msgid "Контакти"
+msgstr "Контакты"
+
+#: .\mainapp\templates\base.html:85 .\mainapp\templates\contacts.html:44
+#: .\mainapp\templates\order.html:27
+msgid "вул. Княжий Затон 17, Київ"
+msgstr "ул. Княжий Затон 17, Киев"
+
+#: .\mainapp\templates\base.html:94
+msgid "Графік роботи:"
+msgstr "График работы:"
+
+#: .\mainapp\templates\base.html:95 .\mainapp\templates\contacts.html:53
+msgid "Щодня: 11:00 - 22:00"
+msgstr "Каждый день: 11:00 - 22:00"
+
+#: .\mainapp\templates\base.html:100
+msgid "Всі права захищені."
+msgstr "Все права защищены."
+
+#: .\mainapp\templates\buscket.html:12
+msgid "Пакетик"
+msgstr "Пакетик"
+
+#: .\mainapp\templates\buscket.html:30 .\mainapp\templates\buscket.html:34
+#: .\mainapp\templates\buscket.html:75 .\mainapp\templates\buscket.html:79
+#: .\mainapp\templates\description.html:28
+#: .\mainapp\templates\description.html:32
+#: .\mainapp\templates\description.html:79
+#: .\mainapp\templates\description.html:83 .\mainapp\templates\index.html:45
+#: .\mainapp\templates\index.html:49 .\mainapp\templates\index.html:96
+#: .\mainapp\templates\index.html:122 .\mainapp\templates\index.html:167
+#: .\mainapp\templates\index.html:193 .\mainapp\templates\index.html:238
+#: .\mainapp\templates\index.html:264 .\mainapp\templates\menu.html:28
+#: .\mainapp\templates\menu.html:32 .\mainapp\templates\menu.html:57
+#: .\mainapp\templates\menu.html:61
+msgid "г."
+msgstr "г."
+
+#: .\mainapp\templates\buscket.html:33 .\mainapp\templates\buscket.html:78
+#: .\mainapp\templates\description.html:31
+#: .\mainapp\templates\description.html:82 .\mainapp\templates\index.html:48
+#: .\mainapp\templates\index.html:95 .\mainapp\templates\index.html:121
+#: .\mainapp\templates\index.html:166 .\mainapp\templates\index.html:192
+#: .\mainapp\templates\index.html:237 .\mainapp\templates\index.html:263
+#: .\mainapp\templates\menu.html:31 .\mainapp\templates\menu.html:60
+msgid "шт."
+msgstr "шт."
+
+#: .\mainapp\templates\buscket.html:117
+msgid "Тут поки що пустенько"
+msgstr "Здесь пока пустенько"
+
+#: .\mainapp\templates\buscket.html:123
+msgid "Сума"
+msgstr "Сумма"
+
+#: .\mainapp\templates\buscket.html:127
+msgid "Шматочки"
+msgstr "Кусочки"
+
+#: .\mainapp\templates\buscket.html:131
+msgid "Вага"
+msgstr "Вес"
+
+#: .\mainapp\templates\buscket.html:135
+msgid "Оформити замовлення"
+msgstr "Оформить заказ"
+
+#: .\mainapp\templates\contacts.html:22
+msgid "Номери телефонів"
+msgstr "Номера телефонов"
+
+#: .\mainapp\templates\contacts.html:42
+msgid "Адреса"
+msgstr "Адрес"
+
+#: .\mainapp\templates\contacts.html:51
+msgid "Графік роботи"
+msgstr "График работы"
+
+#: .\mainapp\templates\contacts.html:60
+msgid "Ми у соцмережах"
+msgstr "Мы в соцсетях"
+
+#: .\mainapp\templates\contacts.html:82
+msgid "Карта доставки"
+msgstr "Карта доставки"
+
+#: .\mainapp\templates\contacts.html:85
+msgid "При замовленні від 300₴ доставка безкоштовна."
+msgstr "При заказе от 300₴ доставка бесплатная."
+
+#: .\mainapp\templates\description.html:11
+#: .\mainapp\templates\description.html:25
+#: .\mainapp\templates\description.html:76
+msgid "Опис"
+msgstr "Описание"
+
+#: .\mainapp\templates\description.html:36
+#: .\mainapp\templates\description.html:57
+#: .\mainapp\templates\description.html:87
+#: .\mainapp\templates\description.html:111
+msgid "Cклад"
+msgstr "Состав"
+
+#: .\mainapp\templates\index.html:29
+msgid "Акції"
+msgstr "Акции"
+
+#: .\mainapp\templates\index.html:79
+msgid "Сети"
+msgstr "Сеты"
+
+#: .\mainapp\templates\index.html:150
+msgid "Роли"
+msgstr "Роллы"
+
+#: .\mainapp\templates\index.html:221
+msgid "Суші"
+msgstr "Суши"
+
+#: .\mainapp\templates\order.html:11
+msgid "Замовлення"
+msgstr "Заказ"
+
+#: .\mainapp\templates\order.html:18
+msgid "Інформація"
+msgstr "Информация"
+
+#: .\mainapp\templates\order.html:19
+msgid "Ваше ім&#39;я"
+msgstr "Ваше имя"
+
+#: .\mainapp\templates\order.html:23
+msgid "Кур'єр"
+msgstr "Курьер"
+
+#: .\mainapp\templates\order.html:24
+msgid "Самовивіз"
+msgstr "Самовывоз"
+
+#: .\mainapp\templates\order.html:27
+msgid "Самовивіз з"
+msgstr "Самовывоз с"
+
+#: .\mainapp\templates\order.html:30
+msgid "Вулиця"
+msgstr "Улица"
+
+#: .\mainapp\templates\order.html:32
+msgid "Номер будинку"
+msgstr "Номер дома"
+
+#: .\mainapp\templates\order.html:33
+msgid "Квартира"
+msgstr "Квартира"
+
+#: .\mainapp\templates\order.html:36
+msgid "Під&#39;їзд"
+msgstr "Подъезд"
+
+#: .\mainapp\templates\order.html:37
+msgid "Поверх"
+msgstr "Этаж"
+
+#: .\mainapp\templates\order.html:39
+msgid "Вартість доставки"
+msgstr "Стоимость доставки"
+
+#: .\mainapp\templates\order.html:42
+msgid "Час доставки"
+msgstr "Время доставки"
+
+#: .\mainapp\templates\order.html:44
+msgid "Найближче"
+msgstr "Ближайшее"
+
+#: .\mainapp\templates\order.html:45
+msgid "На певний час"
+msgstr "На время"
+
+#: .\mainapp\templates\order.html:47
+msgid "Найближчий час"
+msgstr "На ближайшее время"
+
+#: .\mainapp\templates\order.html:49
+msgid "День"
+msgstr "День"
+
+#: .\mainapp\templates\order.html:50
+msgid "Час"
+msgstr "Время"
+
+#: .\mainapp\templates\order.html:53
+msgid "Сума замовлення"
+msgstr "Сумма заказа"
+
+#: .\mainapp\templates\order.html:56
+msgid "У вартість замовлення не входить вартість доставки та додаткових товарів у наборі"
+msgstr "В стоимость заказа не входит стоимость доставки и дополнительных товаров в наборе"
+
+#: .\mainapp\templates\order.html:58
+msgid "Готівка"
+msgstr "Наличные"
+
+#: .\mainapp\templates\order.html:59
+msgid "Термінал"
+msgstr "Терминал"
+
+#: .\mainapp\templates\order.html:64
+msgid "Набір"
+msgstr "Набор"
+
+#: .\mainapp\templates\order.html:66
+msgid "Звичайні палички"
+msgstr "Обычные палочки"
+
+#: .\mainapp\templates\order.html:70
+msgid "Навчальні палички"
+msgstr "Учебные палочки"
+
+#: .\mainapp\templates\order.html:74
+msgid "Васабі"
+msgstr "Васаби"
+
+#: .\mainapp\templates\order.html:78
+msgid "Імбир"
+msgstr "Имбирь"
+
+#: .\mainapp\templates\order.html:82
+msgid "Соєвий соус"
+msgstr "Соевый соус"
+
+#: .\mainapp\templates\order.html:85
+msgid "Коментар"
+msgstr "Комментарий"
+
+#: .\mainapp\templates\order.html:88
+msgid "Замовити"
+msgstr "Заказать"
